@@ -1,0 +1,39 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<title>
+Matiary.com
+</title>
+</head>
+<body>
+
+<style>
+.heading {
+text-align: center;
+font-size : 36pt;
+background-color: light-blue;
+color: black;
+height: 100px;
+}
+</style>
+<style>
+.p {
+font-size: 18pt;
+color: black;
+}
+</style>
+
+<p class="heading">Welcome To Matiary.com !!</p>
+<p class="p">Matiary is located in India at the border of Uttar Pradesh(Up) and Bihar.</p>
+<img src="Bihar.jpeg">
+<img src="Matiary.jpeg alt="Matiary" style="height: 150px; style="text-align: right;"/>
+</div>
+<p class="text1">Matiary News</p>
+<p>There is no news right now.</p>
+<a href="Matiary.com.html">
+The link for thsi website</a>
+
+
+
+</body>
+</html>
